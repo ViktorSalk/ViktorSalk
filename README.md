@@ -2,7 +2,7 @@
 
 # Hi there, I'm Viktor Salkin 👋 
 
-**Senior Java Developer | Spring Boot | Microservices | PostgreSQL | Kafka | CI/CD**
+**Java Developer | Spring Boot | Microservices | PostgreSQL | Kafka | CI/CD**
 
 ---
 
